@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "id": "rec38jO5T05cqdJDx",
+      "fields": {
+        "Notes": "Make sure that post-its are available for everyone at the start of the session",
+        "End": "2019-11-15T15:20:00.000Z",
+        "Activity": "Breakout session (Friday)",
+        "Type": "Breakout session",
+        "Start": "2019-11-15T14:30:00.000Z",
+        "Location": ["rec2AeKjMRbEQ43hi"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec4o7clxR6tnN4jC",
+      "fields": {
+        "Topic / theme": ["recAKdp3HN8grGVua"],
+        "Speaker(s)": ["recgIq9dSaYx31O6S"],
+        "End": "2019-11-15T16:50:00.000Z",
+        "Activity": "Afternoon keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T16:00:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec8TCqQWLDvgBISj",
+      "fields": {
+        "Topic / theme": ["recwzrs09t8fWXxSZ"],
+        "Speaker(s)": ["recfJkyJxZxniBEEd"],
+        "End": "2019-11-15T10:15:00.000Z",
+        "Activity": "Morning keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T09:30:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:17:58.000Z"
+    },
+    {
+      "id": "rec38jO5T05cqdJDx",
+      "fields": {
+        "Notes": "Make sure that post-its are available for everyone at the start of the session",
+        "End": "2019-11-15T15:20:00.000Z",
+        "Activity": "Breakout session (Friday)",
+        "Type": "Breakout session",
+        "Start": "2019-11-15T14:30:00.000Z",
+        "Location": ["rec2AeKjMRbEQ43hi"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec4o7clxR6tnN4jC",
+      "fields": {
+        "Topic / theme": ["recAKdp3HN8grGVua"],
+        "Speaker(s)": ["recgIq9dSaYx31O6S"],
+        "End": "2019-11-15T16:50:00.000Z",
+        "Activity": "Afternoon keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T16:00:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec8TCqQWLDvgBISj",
+      "fields": {
+        "Topic / theme": ["recwzrs09t8fWXxSZ"],
+        "Speaker(s)": ["recfJkyJxZxniBEEd"],
+        "End": "2019-11-15T10:15:00.000Z",
+        "Activity": "Morning keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T09:30:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:17:58.000Z"
+    },
+    {
+      "id": "rec38jO5T05cqdJDx",
+      "fields": {
+        "Notes": "Make sure that post-its are available for everyone at the start of the session",
+        "End": "2019-11-15T15:20:00.000Z",
+        "Activity": "Breakout session (Friday)",
+        "Type": "Breakout session",
+        "Start": "2019-11-15T14:30:00.000Z",
+        "Location": ["rec2AeKjMRbEQ43hi"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec4o7clxR6tnN4jC",
+      "fields": {
+        "Topic / theme": ["recAKdp3HN8grGVua"],
+        "Speaker(s)": ["recgIq9dSaYx31O6S"],
+        "End": "2019-11-15T16:50:00.000Z",
+        "Activity": "Afternoon keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T16:00:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:36:48.000Z"
+    },
+    {
+      "id": "rec8TCqQWLDvgBISj",
+      "fields": {
+        "Topic / theme": ["recwzrs09t8fWXxSZ"],
+        "Speaker(s)": ["recfJkyJxZxniBEEd"],
+        "End": "2019-11-15T10:15:00.000Z",
+        "Activity": "Morning keynote (Friday)",
+        "Type": "Keynote",
+        "Start": "2019-11-15T09:30:00.000Z",
+        "Location": ["recc0LBkI7amZjeSm"]
+      },
+      "createdTime": "2016-10-30T21:17:58.000Z"
+    }
+  ]
+}
